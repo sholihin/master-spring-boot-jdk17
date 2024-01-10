@@ -22,3 +22,4 @@ create table products (
     updated_at timestamp null,
     primary key(id)
 );
+
